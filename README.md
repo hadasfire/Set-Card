@@ -7,4 +7,5 @@ This project was made on my Second year in Ben Gurion University as a student in
 # Getting Started
 
 Clone this repository to your local machine. 
+
 Go to "src/main/java/bguspl/set/Main.java" and start the game.
